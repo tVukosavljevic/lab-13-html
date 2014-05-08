@@ -1,0 +1,16 @@
+P {
+	color: blue;
+}
+h1{
+	color: red;
+	background-color: #33AABB;
+	font-family: papyrus;
+	text-decoration:line-through;
+}
+h2{
+	color: green;
+	background-color: #849374;
+	font-family: verdana;
+	font-size: 100px;
+	text-transform: uppercase
+}
