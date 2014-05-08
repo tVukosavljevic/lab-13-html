@@ -1,3 +1,18 @@
+body {
+	background: white url(http://s3.amazonaws.com/image.blingee.com/images19/content/output/000/000/000/801/843876713_1569297.gif?4);
+	repeat top right;
+}
+
+#intro{
+	border: 7px #395783 dashed;
+
+}
+
+.spotlight {
+	background-color:#FEFE22;
+
+}
+
 P {
 	color: blue;
 }
@@ -14,6 +29,7 @@ h2{
 	font-size: 100px;
 	text-transform: uppercase
 	margin-top: 2px;
+	margin-right: 3px;
 	margin-bottom: 30px;
 	border: 20px #403958 dashed;
 }
